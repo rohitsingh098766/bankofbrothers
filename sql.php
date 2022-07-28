@@ -1,8 +1,8 @@
 <?php
 
 echo "atleast print now";
-//      session_start();
-//      include './connection.php';
+     session_start();
+     include './connection.php';
 
 
    
