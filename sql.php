@@ -5,7 +5,7 @@
 
    
                     
-     $query = "select * from users ";
+     $query = "select * from user";
 $query = mysqli_query($connection,$query);
 while($row = mysqli_fetch_assoc($query)){
 
